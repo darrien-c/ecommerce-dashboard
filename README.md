@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ecommerce Portal Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sample dashboard for a ecommerce websites. Adminstrators can view all necessary data and onformation about orders, product sales, customers, revenue, and many more.
 
 ## Available Scripts
 
