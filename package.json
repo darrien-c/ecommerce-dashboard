@@ -2,7 +2,7 @@
   "name": "portal-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://darrien-c.github.io/portal-dashboard",
+  "homepage":"https://darrien-c.github.io/ecommerce-dashboard/",
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
     "@syncfusion/ej2-react-calendars": "^19.4.48",
