@@ -621,7 +621,7 @@ export const earningData = [
     title: 'Customers',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'red-400',
+    pcColor: 'red-600',
   },
   {
     icon: <BsBoxSeam />,
@@ -649,7 +649,7 @@ export const earningData = [
     title: 'Refunds',
     iconColor: 'rgb(0, 194, 146)',
     iconBg: 'rgb(235, 250, 242)',
-    pcColor: 'red-400',
+    pcColor: 'red-600',
   },
 ];
 
@@ -661,7 +661,7 @@ export const recentTransactions = [
     desc: 'Money Added',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'green-600',
+    pcColor: 'green-400',
   },
   {
     icon: <BsShield />,
